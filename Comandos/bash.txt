@@ -1,0 +1,34 @@
+Estos comando son los que ya Repase
+mv  sirve para cambiar de nombre un arcchivo o un directorio
+mv tambien sirve para mover archivos o directorios ej:
+mv nombreArchivoOri\ nombreArchivoDes
+
+cp es un comando que sirve para copiar archivos o directorios se 
+usa algo igual que mv
+
+rm es un comando para eliminar archivos
+rm -r es para eliminar directorios aun que tengan contenido
+
+mkdir estes creare directorios
+
+COMANDO DE EDICION DE TEXTO
+cat > nombreArchivoNuevo
+este sirve para crear un nuevo archivo
+
+nano    si lo ejecutamos asi sin ningun parametro se abrira el editor
+para poder escribir un archivo nuevo, luego se puede guardar con un 
+nombre que nos pide una ves que salimos con Ctrl+x
+
+nono nombreNuevoArchivo.xyz     creara un archivo y lo abrira para su
+edicion.
+(nano tiene un sub combinacion que abilita el nombero de fila
+ es ALT+SHift+3 )
+
+vim nombreAchivo.xyz abre otro tipo de editor de texto un poco mas
+complicado,
+vim tiene sub comando que es la letra I para comensar la edion de
+texto, y ESC para salir a editar por comandos que tienen que
+comensar por dos puentos (:) 
+:q     sirve para salir del editor
+:w     sirve para guardar la edicion
+:wq    sirve para guardar y salir de la edicion
